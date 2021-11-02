@@ -1,14 +1,22 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+# - configuration & global variables, e.g. '{{ site.title }}'
+# - server needs to be restarted if file is modified
+
+title:              Dataslice
+email:              skms4885@gmail.com
+description:        Data tutorials, tips, and tricks
+author:             Minsub Kim
+baseurl:            ""
+url:                "https://harry4885.github.io"
+
+# url       : http://jekyll.github.io/
+# baseurl   : example/
+# page path : 2014/welcome-to-jekyll.html
+# full path : http://jhekyll.github.io/example/2014/welcome-to-jekyll.html
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
